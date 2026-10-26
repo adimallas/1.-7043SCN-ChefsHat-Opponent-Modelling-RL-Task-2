@@ -37,3 +37,5 @@ The CSV tables report win rate, mean score, mean position, mean actions, learner
 - `results/summaries/paired_differences.csv`: paired DQN-aware contrasts.
 - `results/summaries/analysis.json`: machine-readable protocol/count/uncertainty metadata.
 - `results/figures/`: PNG and SVG figures; `figure_data.json` records each plotted numeric series and source CSV.
+## Viva Video Link for Task 2
+[https://livecoventryac-my.sharepoint.com/:v:/g/personal/adimallas_uni_coventry_ac_uk/IQBPYbzK4mLRSIk2fK1M6NyPAYmfuN0u8tcg4ZhE7vhPLlY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YNfbU4](url)
