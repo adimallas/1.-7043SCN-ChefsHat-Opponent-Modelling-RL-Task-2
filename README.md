@@ -6,11 +6,11 @@ Assigned variant: `17522555 % 7 = 1` — **Opponent Modelling**
 
 This repository documents the implementation and evaluation of masked Double DQN in the official Chef’s Hat `Game` engine. It compares random and heuristic baselines with random-trained, mixed-trained and opponent-aware DQN, plus a same-checkpoint feature-off ablation. Every reported performance value comes from an executed game, not a fabricated, synthetic or filled-in experiment result.
 
-**Status:** all nine final training runs and 8,960 final held-out matches completed; 21 project tests passed; the result verifier passed; the review notebook executed. The final reproducibility sources and verified result files are included. **A student-recorded viva is still required.** Follow [publishing instructions](docs/PUBLISHING.md) and the [recording guide](viva/RECORDING_GUIDE.md), then verify assessor access before submission.
+**Experiment summary:** Nine training runs and 8,960 held-out evaluation matches. The repository includes saved training records, evaluation CSVs, trained checkpoints, analysis figures, unit tests and an executed review notebook.
 
 ## Start here
 
-Read the [results and experimental protocol report](RESULTS.md), [algorithm explanation](docs/ALGORITHM.md), [fixed protocol](docs/EXPERIMENT_PROTOCOL.md), and [limitations](docs/LIMITATIONS.md). Open [the executed review notebook](notebooks/project_review.ipynb). The `viva/` folder contains preparation materials and genuine trained-agent terminal-output evidence; it does not contain a fabricated student recording or video link.
+See the [results and analysis](RESULTS.md), [algorithm](docs/ALGORITHM.md), [experimental protocol](docs/EXPERIMENT_PROTOCOL.md), [limitations](docs/LIMITATIONS.md) and [executed review notebook](notebooks/project_review.ipynb). The `viva/` directory contains a presentation, speaking notes and gameplay output.
 
 ## Measured overall performance
 
@@ -112,8 +112,3 @@ viva/              deck/script preparation and real gameplay evidence
 /docs/             algorithm, protocol, reproducibility, provenance, diagnostics
 ```
 
-## Submission and verification
-
-This repository contains the Task 2 implementation, evaluation evidence and supporting technical documentation. Git history is retained with its actual commit dates. Unit-test fixtures may be synthetic by design, but experiment-result files are not.
-
-Before submission, verify the implementation and results, record a **3–5 minute viva**, upload it to an approved platform, add its accessible URL and confirm assessor access. See the [recording guide](viva/RECORDING_GUIDE.md) for the assessed video.

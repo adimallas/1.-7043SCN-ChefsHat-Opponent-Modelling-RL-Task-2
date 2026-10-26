@@ -26,9 +26,9 @@ Win-rate Wilson intervals are descriptive; games sharing a deal seed and trained
 
 Each game has a 5,000-action diagnostic bound. Exceeding it is a failure/truncation, not a completed game. No fabricated finishing order or substituted score is used. Progress appears every 25 training games, and checkpoints include replay, optimiser, target network, counters and RNG state. Interrupted results are trimmed back to the last checkpoint boundary before authentic resumption. The final backend is the official `Game` at `bf882e55eccd537d189f8b99fef1ad104339c92b` plus the explicitly documented one-line two-joker patch; it is not represented as untouched upstream rules.
 
-## Development and integrity
+## Experimental provenance
 
-Development and experiment history are retained with their actual dates. Reported model performance is derived from completed runs, and the viva must demonstrate the saved implementation and results.
+Saved results correspond to completed final-budget runs. Experimental conditions, evaluation seeds, software versions and environment modifications are recorded alongside the analysis.
 
 ## Quick-validation corrections and final restart
 

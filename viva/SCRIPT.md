@@ -1,6 +1,6 @@
 # Viva speaking script — approximately 4–5 minutes
 
-This is a preparation script, not a recorded or submitted viva. Rehearse it in your own words and verify understanding. At a steady pace, allow roughly four minutes for explanation and 25–35 seconds for the actual demonstration. The matching notes are embedded in the PowerPoint.
+Speaking notes for a four-minute presentation and a 25–35 second gameplay demonstration. The slides contain matching presenter notes.
 
 ## 1. Project question
 
@@ -36,4 +36,4 @@ Pause and run the following real demonstration while screen recording:
 python scripts/demo.py --checkpoint checkpoints/dqn_aware_seed17.pt --seed 777888 --seat 0 --delay 0.15
 ```
 
-Explain one own-hand/action line and show the natural completion message and official score. Do not replace the demonstration with a fabricated result. Upload the final recording and verify assessor permissions. Add the real video URL to the README.
+The demonstration highlights one own-hand/action sequence, natural match completion and final official score.
