@@ -4,7 +4,7 @@
 Student: **Sampath Adimalla** · ID: **17522555**  
 Assigned variant: `17522555 % 7 = 1` — **Opponent Modelling**
 
-This repository documents the implementation and evaluation of masked Double DQN in the official Chef’s Hat `Game` engine. It compares random and heuristic baselines with random-trained, mixed-trained and opponent-aware DQN, plus a same-checkpoint feature-off ablation. Every reported performance value comes from an executed game, not a fabricated, synthetic or filled-in experiment result.
+This repository documents the implementation and evaluation of masked Double DQN in the official Chef’s Hat `Game` engine. It compares random and heuristic baselines with random-trained, mixed-trained and opponent-aware DQN, plus a same-checkpoint feature-off ablation. Reported performance values are derived from the saved completed-match evaluation records.
 
 **Experiment summary:** Nine training runs and 8,960 held-out evaluation matches. The repository includes saved training records, evaluation CSVs, trained checkpoints, analysis figures, unit tests and an executed review notebook.
 
@@ -102,7 +102,7 @@ Only load trusted, self-created checkpoints: resumable PyTorch files include pic
 src/sampath_rl/     official adapter, agents, progress policy, experiments, analysis
 scripts/           pinned installer, train/evaluate/run_all, verify, demo, notebook
 configs/           quick and standard fixed configurations
-checkpoints/       nine final resumable checkpoints
+checkpoints/       nine compact final evaluation checkpoints
 results/training/  match rewards, losses and actual completed-run metadata
 results/evaluation/ final match-level CSVs, including feature-off ablation
 results/summaries/ overall/opponent/seed summaries and paired contrasts
