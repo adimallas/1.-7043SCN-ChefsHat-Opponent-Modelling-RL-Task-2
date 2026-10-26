@@ -33,7 +33,7 @@ Zeroing the aware checkpoints’ behaviour inputs lowers performance by **10.89 
 
 ## What was trained and evaluated
 
-All DQN conditions use the same **64 → 128 → 128 → 200** ReLU network, with **50,632 parameters**, legal action masking, replay, Huber loss, an online and target network, hard target updates, and epsilon decay. Bootstrap selection is masked too. Checkpoints save model, target, optimiser, replay, counters and RNG state for genuine resumption.
+All DQN conditions use the same **64 → 128 → 128 → 200** ReLU network, with **50,632 parameters**, legal action masking, replay, Huber loss, an online and target network, hard target updates, and epsilon decay. Bootstrap selection is masked too. The published checkpoints retain trained network weights, optimiser state and training metadata. The large replay buffers are excluded from these public files; exact interrupted-training resumption requires the original full checkpoints. See [checkpoint format](docs/CHECKPOINT_FORMAT.md).
 
 DQN-Random trains against three random opponents. DQN-Mixed uses one random, one aggressive and one conservative opponent, with their seat order rotated. DQN-Aware uses the exact same mixed schedule with fifteen public behaviour statistics active. Non-aware variants retain the same dimension and zero those fifteen inputs. No opponent private-card identity enters learner observations. A dedicated regression test changes hidden card identities while preserving public hand sizes and confirms identical learner encoding.
 
@@ -82,7 +82,7 @@ python scripts/demo.py --checkpoint checkpoints/dqn_aware_seed17.pt --seed 77788
 
 The fixed demonstration seed was specified before final evaluation and was not selected from favourable outcomes. The genuine saved match completed in first place with three points and fifteen learner decisions. A single win is not evidence of overall superiority. The transcript, learner/public JSONL trace, final summary and playable asciicast are in `viva/gameplay/`. The asciicast captures actual process output, not a student or GUI gameplay video.
 
-### Fresh runs and authentic resumption
+### Fresh training runs
 
 Saved experiments are never silently overwritten. Move the delivered `results/training`, `results/evaluation` and `checkpoints/*.pt` to an archive before a fresh full run:
 
@@ -92,11 +92,7 @@ python -m sampath_rl.analysis
 python scripts/verify_results.py
 ```
 
-A quick smoke pipeline uses `configs/quick.yaml`; move existing quick outputs aside first. To resume an interrupted final training run with the identical config:
-
-```bash
-python scripts/train.py --config configs/standard.yaml --condition dqn_aware --seed 17 --resume
-```
+A quick smoke pipeline uses `configs/quick.yaml`; move existing quick outputs aside first. To resume interrupted training exactly, restore the original full training checkpoints, which include the replay memory and are not published here.
 
 Only load trusted, self-created checkpoints: resumable PyTorch files include pickle-based state. No GPU, external model API or secret credential is needed for training or evaluation.
 
@@ -120,4 +116,4 @@ viva/              deck/script preparation and real gameplay evidence
 
 This repository contains the Task 2 implementation, evaluation evidence and supporting technical documentation. Git history is retained with its actual commit dates. Unit-test fixtures may be synthetic by design, but experiment-result files are not.
 
-Before submission, verify the implementation and results, record a **3–5 minute viva**, upload it to an approved platform, add its accessible URL and confirm assessor access. See [publishing steps](docs/PUBLISHING.md), [recording guide](viva/RECORDING_GUIDE.md) and [submission checklist](SUBMISSION_CHECKLIST.md).
+Before submission, verify the implementation and results, record a **3–5 minute viva**, upload it to an approved platform, add its accessible URL and confirm assessor access. See the [recording guide](viva/RECORDING_GUIDE.md) for the assessed video.
