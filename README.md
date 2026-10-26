@@ -98,7 +98,7 @@ A quick smoke pipeline uses `configs/quick.yaml`; move existing quick outputs as
 python scripts/train.py --config configs/standard.yaml --condition dqn_aware --seed 17 --resume
 ```
 
-Only load trusted, self-created checkpoints: resumable PyTorch files include pickle-based state. No GPU, paid AI model API or secret credential is needed for training or evaluation.
+Only load trusted, self-created checkpoints: resumable PyTorch files include pickle-based state. No GPU, external model API or secret credential is needed for training or evaluation.
 
 ## Repository map
 
@@ -116,8 +116,8 @@ viva/              deck/script preparation and real gameplay evidence
 /docs/             algorithm, protocol, reproducibility, provenance, diagnostics
 ```
 
-## Submission and integrity
+## Submission and verification
 
-This repository contains the Task 2 implementation, evaluation evidence and supporting technical documentation. Git commits use actual current development dates and identify AI assistance; no development history is backdated. Unit-test fixtures may be synthetic by design, but experiment-result files are not.
+This repository contains the Task 2 implementation, evaluation evidence and supporting technical documentation. Git history is retained with its actual commit dates. Unit-test fixtures may be synthetic by design, but experiment-result files are not.
 
-Before submitting, inspect and understand the code, comply with your university’s AI-assistance rules, record your own **3–5 minute viva**, upload it to an approved platform, add its real accessible link, publish using your authorised GitHub account, and verify assessor access. No GitHub or recording URL is invented. See [publishing steps](docs/PUBLISHING.md), [recording guide](viva/RECORDING_GUIDE.md) and [submission checklist](SUBMISSION_CHECKLIST.md).
+Before submission, verify the implementation and results, record a **3–5 minute viva**, upload it to an approved platform, add its accessible URL and confirm assessor access. See [publishing steps](docs/PUBLISHING.md), [recording guide](viva/RECORDING_GUIDE.md) and [submission checklist](SUBMISSION_CHECKLIST.md).

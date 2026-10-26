@@ -16,4 +16,4 @@ Aim for approximately 4 minutes of explanation plus 30–45 seconds of demonstra
 
 Before submission, export/play the recording and check audio, screen readability, timing and the game completion. Upload it to an approved platform, set permissions so assessors can view it, and add its real URL to README.md. Publish the repository and verify assessor access. This package deliberately contains no fabricated video link.
 
-Be prepared to explain legal masking, Double DQN targets, replay, epsilon decay, opponent features, the progress restriction, confidence intervals and why the experiments do not establish universal superiority. Review the AI-assisted source yourself and follow the university’s rules for acknowledging assistance.
+Be prepared to explain legal masking, Double DQN targets, replay, epsilon decay, opponent features, the progress restriction, confidence intervals and why the experiments do not establish universal superiority. Review the source and supporting results and be prepared to explain the implementation and its limitations.

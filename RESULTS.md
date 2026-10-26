@@ -1,6 +1,6 @@
 # Chef's Hat opponent-modelling results
 
-This report was generated only after all saved standard-protocol artefacts from the final backend (the patched official `Game` implementation with its common progress guard) passed schema, completion, legal-action, and consistency checks. It does not create or impute game results.
+The saved standard-protocol artefacts from the final backend (the patched official `Game` implementation with its common progress guard) passed schema, completion, legal-action and consistency checks. Reported performance values are computed from the retained match-level records.
 
 ## Exact protocol counts
 

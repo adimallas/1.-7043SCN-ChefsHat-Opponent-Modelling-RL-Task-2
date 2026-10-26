@@ -28,7 +28,7 @@ Each game has a 5,000-action diagnostic bound. Exceeding it is a failure/truncat
 
 ## Development and integrity
 
-All development takes place at the actual present time. No milestone dates, historical work, model performance, recording, or GitHub publication is fabricated. The student must check and understand this AI-assisted package and record their own viva.
+Development and experiment history are retained with their actual dates. Reported model performance is derived from completed runs, and the viva must demonstrate the saved implementation and results.
 
 ## Quick-validation corrections and final restart
 

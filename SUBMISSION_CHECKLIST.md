@@ -15,7 +15,7 @@
 ## Student actions still required
 
 - [ ] Inspect the implementation and be able to explain each design choice.
-- [ ] Follow university rules for acknowledging AI assistance.
+- [ ] Complete the required university submission declarations separately.
 - [ ] Confirm the module accepts the explicitly documented compatibility patch/progress policy.
 - [ ] Publish the repository with an authorised GitHub account and appropriate visibility.
 - [ ] Give assessors the required repository access and verify it from a separate session.

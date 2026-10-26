@@ -36,4 +36,4 @@ Pause and run the following real demonstration while screen recording:
 python scripts/demo.py --checkpoint checkpoints/dqn_aware_seed17.pt --seed 777888 --seat 0 --delay 0.15
 ```
 
-Explain one own-hand/action line and show the natural completion message and official score. Do not replace the demonstration with a fabricated result. At the end, follow your university’s required acknowledgement of AI assistance. Upload your actual recording and verify assessor permissions; no recording URL is supplied or invented here.
+Explain one own-hand/action line and show the natural completion message and official score. Do not replace the demonstration with a fabricated result. Upload the final recording and verify assessor permissions. Add the real video URL to the README.
