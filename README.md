@@ -4,13 +4,13 @@
 Student: **Sampath Adimalla** · ID: **17522555**  
 Assigned variant: `17522555 % 7 = 1` — **Opponent Modelling**
 
-This AI-assisted, reproducible project implements and evaluates masked Double DQN in the official Chef’s Hat `Game` engine. It compares random and heuristic baselines with random-trained, mixed-trained and opponent-aware DQN, plus a same-checkpoint feature-off ablation. Every reported performance value comes from an executed game, not a fabricated, synthetic or filled-in experiment result.
+This repository documents the implementation and evaluation of masked Double DQN in the official Chef’s Hat `Game` engine. It compares random and heuristic baselines with random-trained, mixed-trained and opponent-aware DQN, plus a same-checkpoint feature-off ablation. Every reported performance value comes from an executed game, not a fabricated, synthetic or filled-in experiment result.
 
 **Status:** all nine final training runs and 8,960 final held-out matches completed; 21 project tests passed; the result verifier passed; the review notebook executed. The final reproducibility sources and verified result files are included. **A student-recorded viva is still required.** Follow [publishing instructions](docs/PUBLISHING.md) and the [recording guide](viva/RECORDING_GUIDE.md), then verify assessor access before submission.
 
 ## Start here
 
-Read [the generated results/protocol report](RESULTS.md), [algorithm explanation](docs/ALGORITHM.md), [fixed protocol](docs/EXPERIMENT_PROTOCOL.md), and [limitations](docs/LIMITATIONS.md). Open [the executed review notebook](notebooks/project_review.ipynb). The `viva/` folder contains preparation materials and genuine trained-agent terminal-output evidence; it does not contain a fabricated student recording or video link.
+Read the [results and experimental protocol report](RESULTS.md), [algorithm explanation](docs/ALGORITHM.md), [fixed protocol](docs/EXPERIMENT_PROTOCOL.md), and [limitations](docs/LIMITATIONS.md). Open [the executed review notebook](notebooks/project_review.ipynb). The `viva/` folder contains preparation materials and genuine trained-agent terminal-output evidence; it does not contain a fabricated student recording or video link.
 
 ## Measured overall performance
 
@@ -118,6 +118,6 @@ viva/              deck/script preparation and real gameplay evidence
 
 ## Submission and integrity
 
-This is a **Task 2** implementation package, not a fabricated Task 1 IEEE paper or historical milestone record. Git commits use actual current development dates and identify AI assistance; no development history is backdated. Unit-test fixtures may be synthetic by design, but experiment-result files are not.
+This repository contains the Task 2 implementation, evaluation evidence and supporting technical documentation. Git commits use actual current development dates and identify AI assistance; no development history is backdated. Unit-test fixtures may be synthetic by design, but experiment-result files are not.
 
 Before submitting, inspect and understand the code, comply with your university’s AI-assistance rules, record your own **3–5 minute viva**, upload it to an approved platform, add its real accessible link, publish using your authorised GitHub account, and verify assessor access. No GitHub or recording URL is invented. See [publishing steps](docs/PUBLISHING.md), [recording guide](viva/RECORDING_GUIDE.md) and [submission checklist](SUBMISSION_CHECKLIST.md).
