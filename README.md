@@ -6,7 +6,7 @@ Assigned variant: `17522555 % 7 = 1` — **Opponent Modelling**
 
 This AI-assisted, reproducible project implements and evaluates masked Double DQN in the official Chef’s Hat `Game` engine. It compares random and heuristic baselines with random-trained, mixed-trained and opponent-aware DQN, plus a same-checkpoint feature-off ablation. Every reported performance value comes from an executed game, not a fabricated, synthetic or filled-in experiment result.
 
-**Status:** all nine final training runs and 8,960 final held-out matches completed; 21 project tests passed; the result verifier passed; the review notebook executed. A reproducible source and final-results repository is provided; the separate original development bundle is retained offline. **The student’s assessed viva recording is still to be added.** Follow [publishing instructions](docs/PUBLISHING.md) and the [recording guide](viva/RECORDING_GUIDE.md), then verify assessor access before submission.
+**Status:** all nine final training runs and 8,960 final held-out matches completed; 21 project tests passed; the result verifier passed; the review notebook executed. The final reproducibility sources and verified result files are included. **A student-recorded viva is still required.** Follow [publishing instructions](docs/PUBLISHING.md) and the [recording guide](viva/RECORDING_GUIDE.md), then verify assessor access before submission.
 
 ## Start here
 
@@ -33,7 +33,7 @@ Zeroing the aware checkpoints’ behaviour inputs lowers performance by **10.89 
 
 ## What was trained and evaluated
 
-All DQN conditions use the same **64 → 128 → 128 → 200** ReLU network, with **50,632 parameters**, legal action masking, replay, Huber loss, an online and target network, hard target updates, and epsilon decay. Bootstrap selection is masked too. Published compact checkpoints retain model, target, optimiser, counters and RNG state, but omit experience replay; see [checkpoint format](docs/CHECKPOINT_FORMAT.md). Full replay-bearing originals remain in the student’s local evidence archive for exact resumption.
+All DQN conditions use the same **64 → 128 → 128 → 200** ReLU network, with **50,632 parameters**, legal action masking, replay, Huber loss, an online and target network, hard target updates, and epsilon decay. Bootstrap selection is masked too. Checkpoints save model, target, optimiser, replay, counters and RNG state for genuine resumption.
 
 DQN-Random trains against three random opponents. DQN-Mixed uses one random, one aggressive and one conservative opponent, with their seat order rotated. DQN-Aware uses the exact same mixed schedule with fifteen public behaviour statistics active. Non-aware variants retain the same dimension and zero those fifteen inputs. No opponent private-card identity enters learner observations. A dedicated regression test changes hidden card identities while preserving public hand sizes and confirms identical learner encoding.
 
@@ -51,7 +51,7 @@ The backend is official `Game` at commit **`bf882e55eccd537d189f8b99fef1ad104339
 
 Every policy also shares an independent **progress choice constraint**: when an empty board has a legal discard, it does not select pass. Original engine legality remains separate; the guard never adds an illegal action or substitutes an action after execution. The random baseline is uniform over this constrained legal subset. Results are conditional on both choices, not directly comparable with unrestricted unpatched experiments.
 
-See [compatibility findings](docs/ENVIRONMENT_COMPATIBILITY.md), [pass-loop diagnosis](docs/PASS_LOOP_DIAGNOSIS.md), [two-joker diagnosis and fair restart](docs/TWO_JOKER_FIX.md), and [switching event-hook validation](docs/SWITCHING_VALIDATION.md). All pre-patch training and misconfigured switching evaluations are preserved separately and excluded from final aggregation. Main experiments are single-match games; multi-match exchange/role progression is separately tested, not claimed as a fully evaluated long competition.
+See [compatibility findings](docs/ENVIRONMENT_COMPATIBILITY.md), [pass-loop diagnosis](docs/PASS_LOOP_DIAGNOSIS.md), [two-joker diagnosis and fair restart](docs/TWO_JOKER_FIX.md), and [switching event-hook validation](docs/SWITCHING_VALIDATION.md). Pre-patch training and misconfigured switching evaluations are excluded from the published final aggregation; their diagnostic history was retained offline. Main experiments are single-match games; multi-match exchange/role progression is separately tested, not claimed as a fully evaluated long competition.
 
 Upstream Flit installation fails in the pinned revision; the bootstrap retrieves and imports external source, rather than redistributing upstream source/assets. Optional legacy TensorFlow agents are not used. The supplied restricted assignment document is not bundled.
 
@@ -106,7 +106,7 @@ Only load trusted, self-created checkpoints: resumable PyTorch files include pic
 src/sampath_rl/     official adapter, agents, progress policy, experiments, analysis
 scripts/           pinned installer, train/evaluate/run_all, verify, demo, notebook
 configs/           quick and standard fixed configurations
-checkpoints/       nine compact final evaluation checkpoints (replay removed)
+checkpoints/       nine final resumable checkpoints
 results/training/  match rewards, losses and actual completed-run metadata
 results/evaluation/ final match-level CSVs, including feature-off ablation
 results/summaries/ overall/opponent/seed summaries and paired contrasts

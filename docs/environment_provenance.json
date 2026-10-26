@@ -1,0 +1,9 @@
+{
+  "base_commit": "bf882e55eccd537d189f8b99fef1ad104339c92b",
+  "patch_sha256": "5b038a7114080abd7efbf2816cdce322dad8d1bddbaa20945f49f3e3ae1771bb",
+  "patch_file": "docs/upstream_joker_fix.patch",
+  "source_diff": "diff --git a/src/core/utils/rules.py b/src/core/utils/rules.py\nindex 8c1118d..524b7df 100644\n--- a/src/core/utils/rules.py\n+++ b/src/core/utils/rules.py\n@@ -74,7 +74,7 @@ def get_possible_actions(hand, board, is_first_round, is_first_turn):\n                 if jokers >= 2:\n                     possible_actions.append(f\"C{card};Q{qty};J2\")\n         if not (is_first_turn and is_first_round):\n-            if jokers == 1:\n+            if jokers >= 1:\n                 possible_actions.append(\"C0;Q0;J1\")\n     else:\n         top_card = board_values[0]\n",
+  "source_rules_sha256": "9ac6524c4e196baf6d3549e31bd73ed3f0d19bb22a63ad9538cca438fc809ff5",
+  "action_count": 200,
+  "final_backend": "official pinned Game plus documented one-line two-joker patch"
+}

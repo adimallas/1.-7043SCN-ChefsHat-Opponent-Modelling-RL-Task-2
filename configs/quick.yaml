@@ -1,0 +1,22 @@
+environment_commit: bf882e55eccd537d189f8b99fef1ad104339c92b
+environment_patch_sha256: 5b038a7114080abd7efbf2816cdce322dad8d1bddbaa20945f49f3e3ae1771bb
+preset: quick
+train_episodes: 8
+training_seeds: [17]
+evaluation_seed_start: 8000000
+evaluation_seeds: 2
+seats: [0, 1, 2, 3]
+max_actions: 5000
+shaping: 0.01
+epsilon_start: 1.0
+epsilon_end: 0.05
+epsilon_decay_fraction: 0.8
+network:
+  learning_rate: 0.001
+  batch_size: 32
+  gamma: 0.99
+  learn_start: 32
+  update_every: 4
+  target_interval: 50
+  grad_clip: 10.0
+  capacity: 20000

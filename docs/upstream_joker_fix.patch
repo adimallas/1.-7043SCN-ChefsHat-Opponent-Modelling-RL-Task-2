@@ -1,0 +1,12 @@
+diff --git a/src/core/utils/rules.py b/src/core/utils/rules.py
+--- a/src/core/utils/rules.py
++++ b/src/core/utils/rules.py
+@@ -74,7 +74,7 @@ def get_possible_actions(hand, board, is_first_round, is_first_turn):
+                 if jokers >= 2:
+                     possible_actions.append(f"C{card};Q{qty};J2")
+         if not (is_first_turn and is_first_round):
+-            if jokers == 1:
++            if jokers >= 1:
+                 possible_actions.append("C0;Q0;J1")
+     else:
+         top_card = board_values[0]

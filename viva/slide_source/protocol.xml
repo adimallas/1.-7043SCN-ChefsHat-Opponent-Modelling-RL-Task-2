@@ -1,0 +1,15 @@
+<slide id="protocol">
+  <background color="background"/>
+  <shape type="rect" x="1216" y="60" width="4" height="4" fill="accent-orange"/>
+  <text x="60" y="60" width="1120" height="86" font="heading" color="primary">Controlled training and held-out evaluation</text>
+  <table x="60" y="190" width="1120" height="296" columns="3,7" rows="56,60,60,60,60" font="body" size="24" padding="12 18" header-fill="primary" fill="surface" border-h="1 #DCE3E9">
+    <tr color="#FFFFFF"><td>Stage</td><td>Fixed comparison</td></tr>
+    <tr><td>Training</td><td>600 matches × 3 conditions × seeds 17, 29, 43</td></tr>
+    <tr><td>Frozen evaluation</td><td>Final checkpoints; no test-selected model or exploration</td></tr>
+    <tr><td>Opponents</td><td>Random, aggressive, conservative, mixed, switching</td></tr>
+    <tr><td>Held-out deals</td><td>32 common seeds × 4 seats × each configuration</td></tr>
+  </table>
+  <text x="60" y="522" width="1100" height="78" font="body" color="text-main"><p>5,400 training matches · 8,960 evaluation matches including ablation.</p><p>Joint deal-seed bootstrap; between-training-seed variation reported.</p></text>
+  <text x="60" y="620" width="1100" height="24" font="caption" color="text-muted">Baselines evaluated once; trained variants at three seeds · all final matches complete · zero invalid actions</text>
+  <text x="1170" y="644" width="50" height="20" font="caption" color="text-muted" align="right">4 / 7</text>
+</slide>

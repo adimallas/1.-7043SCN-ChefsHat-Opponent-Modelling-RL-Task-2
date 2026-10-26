@@ -1,0 +1,17 @@
+<slide id="ablation">
+  <background color="background"/>
+  <shape type="rect" x="1216" y="60" width="4" height="4" fill="accent-orange"/>
+  <text x="60" y="60" width="1120" height="86" font="heading" color="primary">Features matter, but do not guarantee superiority</text>
+  <text x="60" y="192" width="520" height="50" font="heading" size="30" color="primary">Same-checkpoint ablation</text>
+  <text x="60" y="266" width="230" height="80" font="display" color="accent-orange">35.10%</text>
+  <text x="60" y="354" width="230" height="40" font="body" color="text-main">Features on</text>
+  <text x="320" y="266" width="250" height="80" font="display" color="accent-teal">24.22%</text>
+  <text x="320" y="354" width="250" height="40" font="body" color="text-main">Features zeroed</text>
+  <text x="60" y="428" width="500" height="142" font="body" color="text-main" line-height="1.4"><p>Evidence of feature reliance.</p><p>Zeroing inputs creates distribution shift; it does not prove the aware architecture beats retrained mixed DQN.</p></text>
+  <shape type="line" x="624" y="190" width="0" height="390" stroke="primary" stroke-width="1"/>
+  <text x="674" y="192" width="500" height="70" font="heading" size="30" color="primary">Genuine switching opponents</text>
+  <text x="674" y="294" width="500" height="210" font="body" color="text-main" line-height="1.5"><p>Alternate every 20 observed opponent actions.</p><p>DQN-Mixed: <strong>17.19%</strong> wins.</p><p><span color="accent-orange">DQN-Aware: <strong>17.19%</strong> wins.</span></p><p>DQN-Random: <strong>17.45%</strong> wins.</p></text>
+  <text x="674" y="522" width="500" height="70" font="body" color="text-main">No clear adaptation advantage for the aware agent in this test.</text>
+  <text x="60" y="628" width="1080" height="24" font="caption" color="text-muted">Final corrected event-hook evaluation only · seed variability and uncertainty limit broader claims</text>
+  <text x="1170" y="644" width="50" height="20" font="caption" color="text-muted" align="right">6 / 7</text>
+</slide>

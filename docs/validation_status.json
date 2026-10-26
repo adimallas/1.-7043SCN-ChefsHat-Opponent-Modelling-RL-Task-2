@@ -1,0 +1,18 @@
+{
+  "final_training_runs": 9,
+  "completed_training_matches": 5400,
+  "final_evaluation_matches": 8960,
+  "all_final_matches_completed": true,
+  "final_invalid_actions": 0,
+  "project_tests_passed": 21,
+  "result_verification": "passed",
+  "executed_notebook_code_cells": 6,
+  "viva_slides": 7,
+  "native_viva_charts": 5,
+  "remote_github_published": false,
+  "student_recording_created": false,
+  "official_source_base_revision": "bf882e55eccd537d189f8b99fef1ad104339c92b",
+  "documented_joker_patch": true,
+  "shared_progress_policy": true,
+  "switching_public_action_hook_validated": true
+}

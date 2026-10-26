@@ -1,0 +1,11 @@
+# Local-only runtime files / secrets
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pyc
+*.pyo
+*.log
+.DS_Store
+# Keep published final checkpoints and verified results tracked

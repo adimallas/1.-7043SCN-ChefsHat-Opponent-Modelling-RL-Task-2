@@ -1,0 +1,14 @@
+<slide id="results">
+  <background color="background"/>
+  <shape type="rect" x="1216" y="60" width="4" height="4" fill="accent-orange"/>
+  <text x="60" y="60" width="1120" height="86" font="heading" color="primary">Measured performance: the heuristic is strongest</text>
+  <text x="60" y="164" width="1100" height="36" font="body" color="text-main">First-place win rate across the same five opponent conditions</text>
+  <chart type="column" x="60" y="230" width="216" height="320" font="caption" text-size="18" categories="Random" color="accent-teal" y-min="0" y-max="1" y-format="percent" y-axis="true" x-axis="true" gridlines="h" gridline-color="#DCE3E9" data-labels="true" gap-width="150"><series values="0.1078125" color="accent-teal" label-expr="{value:.1%}"/></chart>
+  <chart type="column" x="282" y="230" width="216" height="320" font="caption" text-size="18" categories="Heuristic" color="accent-teal" y-min="0" y-max="1" y-format="percent" y-axis="false" gridlines="none" data-labels="true" gap-width="150"><series values="0.590625" color="accent-teal" label-expr="{value:.1%}"/></chart>
+  <chart type="column" x="504" y="230" width="216" height="320" font="caption" text-size="18" categories="DQN-Random" color="accent-teal" y-min="0" y-max="1" y-format="percent" y-axis="false" gridlines="none" data-labels="true" gap-width="150"><series values="0.338020833333" color="accent-teal" label-expr="{value:.1%}"/></chart>
+  <chart type="column" x="726" y="230" width="216" height="320" font="caption" text-size="18" categories="DQN-Mixed" color="accent-teal" y-min="0" y-max="1" y-format="percent" y-axis="false" gridlines="none" data-labels="true" gap-width="150"><series values="0.369270833333" color="accent-teal" label-expr="{value:.1%}"/></chart>
+  <chart type="column" x="948" y="230" width="232" height="320" font="caption" text-size="18" categories="DQN-Aware" color="accent-orange" y-min="0" y-max="1" y-format="percent" y-axis="false" gridlines="none" data-labels="true" gap-width="150"><series values="0.351041666667" color="accent-orange" label-expr="{value:.1%}"/></chart>
+  <text x="60" y="578" width="1100" height="38" font="body" color="text-main">More complex does not mean better: aware is below mixed overall.</text>
+  <text x="60" y="630" width="1070" height="24" font="caption" color="text-muted">n = 640 per baseline; n = 1,920 per learned condition · exact CSVs and joint-bootstrap intervals in the repository</text>
+  <text x="1170" y="644" width="50" height="20" font="caption" color="text-muted" align="right">5 / 7</text>
+</slide>

@@ -1,0 +1,12 @@
+<slide id="demo">
+  <background color="background"/>
+  <shape type="rect" x="1216" y="60" width="4" height="4" fill="accent-orange"/>
+  <text x="60" y="60" width="1120" height="86" font="heading" color="primary">Demonstration, limitations and next steps</text>
+  <text x="60" y="190" width="1100" height="76" font="heading" size="32" color="primary">Real trained-agent match: seed 777888, seat 0</text>
+  <text x="60" y="280" width="1100" height="72" font="body" color="text-main"><p>Natural completion · first place · 3 official points · 15 learner decisions.</p><p>One demonstration is not evidence of general superiority.</p></text>
+  <shape type="rect" x="60" y="378" width="1120" height="64" fill="surface"/>
+  <text x="78" y="396" width="1080" height="32" font="body" color="primary">python scripts/demo.py --seed 777888 --seat 0 --delay 0.15</text>
+  <text x="60" y="474" width="1100" height="120" font="body" color="text-main" line-height="1.4"><p>Limits: 600 matches per run, three seeds, hand-designed opponents.</p><p>Patched backend + progress guard; no convergence or human-play claim.</p><p>Next: stronger baselines, longer budgets, recurrent opponent modelling.</p></text>
+  <text x="60" y="628" width="1080" height="24" font="caption" color="text-muted">Record your own viva · disclose AI assistance as required · publish and verify assessor access</text>
+  <text x="1170" y="644" width="50" height="20" font="caption" color="text-muted" align="right">7 / 7</text>
+</slide>

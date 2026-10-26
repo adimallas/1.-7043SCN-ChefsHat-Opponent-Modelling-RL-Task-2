@@ -1,0 +1,43 @@
+{
+  "condition": "dqn_random",
+  "training_seed": 17,
+  "config": {
+    "environment_commit": "bf882e55eccd537d189f8b99fef1ad104339c92b",
+    "environment_patch_sha256": "5b038a7114080abd7efbf2816cdce322dad8d1bddbaa20945f49f3e3ae1771bb",
+    "preset": "standard",
+    "train_episodes": 600,
+    "training_seeds": [
+      17,
+      29,
+      43
+    ],
+    "evaluation_seed_start": 9000000,
+    "evaluation_seeds": 32,
+    "seats": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "max_actions": 5000,
+    "shaping": 0.01,
+    "epsilon_start": 1.0,
+    "epsilon_end": 0.05,
+    "epsilon_decay_fraction": 0.8,
+    "network": {
+      "learning_rate": 0.001,
+      "batch_size": 64,
+      "gamma": 0.99,
+      "learn_start": 256,
+      "update_every": 4,
+      "target_interval": 250,
+      "grad_clip": 10.0,
+      "capacity": 20000
+    }
+  },
+  "started_utc": "2026-10-25T22:44:57.801730+00:00",
+  "completed_episodes": 600,
+  "duration_seconds": 65.5562891909999,
+  "status": "completed",
+  "steps": 13271
+}

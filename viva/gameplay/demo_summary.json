@@ -1,0 +1,51 @@
+{
+  "position": 1,
+  "score": 3,
+  "environment_score": 3,
+  "score_source": "official Game.update_scores final-match finishing points",
+  "performance_score": 2.142857142857143,
+  "performance_score_source": "legacy documentation formula ((match_points * 10) / total_rounds) / completed_matches; not emitted by current upstream Game",
+  "actions": [
+    15,
+    17,
+    18,
+    22
+  ],
+  "learner_actions": 15,
+  "passes": 5,
+  "invalid_actions": 0,
+  "rounds": 14,
+  "match_rounds": 14,
+  "matches": 1,
+  "seed": 777888,
+  "seat": 0,
+  "duration_seconds": 1.7121080580000125,
+  "finishing_order": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "finishing_order_names": [
+    "P0",
+    "P1",
+    "P2",
+    "P3"
+  ],
+  "game_scores": {
+    "P0": 3,
+    "P1": 2,
+    "P2": 1,
+    "P3": 0
+  },
+  "roles": {
+    "P0": null,
+    "P1": null,
+    "P2": null,
+    "P3": null
+  },
+  "checkpoint": "checkpoints/dqn_aware_seed17.pt",
+  "demonstration_seed": 777888,
+  "learner_decisions": 15,
+  "completed": true
+}

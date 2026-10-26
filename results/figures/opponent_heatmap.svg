@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="616.142pt" height="381.6pt" viewBox="0 0 616.142 381.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T22:55:24.429057</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 381.6 
+L 616.142 381.6 
+L 616.142 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 103.279688 353.78 
+L 541.225037 353.78 
+L 541.225037 12.545 
+L 103.279688 12.545 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p6f8904d027)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAmEAAAHaCAYAAABIEJ5gAAAJPklEQVR4nO3YMWpUYQCF0TxnwqjBQkQrpxE3IJYi2LqCLCM70MJ9WLgBO0sJCGKdyiqClY1VwOBTZ9xE3v+BnrOCW37c6fj96f6Af97rp+t6AgOcfJrrCSzs5aOLegID3Drc1BMY4Fo9AADgfyTCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAAC649n+3oDA8xPLuoJDPDh8816Ags7f7iqJzDA9miuJzCAJwwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAAC6+nH73oDA/zazfUEBri8vFFPYGHzn6meAFwRTxgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAERBgAQECEAQAE1vujw3oDA+z29QJGuL9d1RNY2O3Nrp4AXBFPGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAAREGABAQIQBAATWmzdn9QYGOD9+UE9ggK8vTusJLOzk1bN6AgM8vjfXExjAEwYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAAABEQYAEBBhAACB6e2Xd/t6BMt7vr1TT2CA7z+/1RNY2N3r23oCA0wHq3oCA3jCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAICDCAAACIgwAIPAXbmUvSGIrbtcAAAAASUVORK5CYII=" id="imageb67fcb8b28" transform="scale(1 -1) translate(0 -341.28)" x="102.96" y="-12.24" width="438.48" height="341.28"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m6057cc44f1" d="M 0 0 
+L 0 3.5 
+" style="stroke: #333333; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m6057cc44f1" x="147.074223" y="353.78" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #333333" x="147.074223" y="371.47" transform="rotate(-0 147.074223 371.47)">Random</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m6057cc44f1" x="234.663293" y="353.78" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #333333" x="234.663293" y="371.47" transform="rotate(-0 234.663293 371.47)">Aggressive</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m6057cc44f1" x="322.252363" y="353.78" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #333333" x="322.252363" y="371.47" transform="rotate(-0 322.252363 371.47)">Conservative</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m6057cc44f1" x="409.841432" y="353.78" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #333333" x="409.841432" y="371.47" transform="rotate(-0 409.841432 371.47)">Mixed</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m6057cc44f1" x="497.430502" y="353.78" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #333333" x="497.430502" y="371.47" transform="rotate(-0 497.430502 371.47)">Switching</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="ma49f174099" d="M 0 0 
+L -3.5 0 
+" style="stroke: #333333; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#ma49f174099" x="103.279688" y="40.98125" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: end; fill: #333333" x="96.279688" y="46.32625" transform="rotate(-0 96.279688 46.32625)">Random</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#ma49f174099" x="103.279688" y="97.85375" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: end; fill: #333333" x="96.279688" y="103.19875" transform="rotate(-0 96.279688 103.19875)">Heuristic</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#ma49f174099" x="103.279688" y="154.72625" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: end; fill: #333333" x="96.279688" y="160.07125" transform="rotate(-0 96.279688 160.07125)">DQN random</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#ma49f174099" x="103.279688" y="211.59875" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: end; fill: #333333" x="96.279688" y="216.94375" transform="rotate(-0 96.279688 216.94375)">DQN mixed</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#ma49f174099" x="103.279688" y="268.47125" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: end; fill: #333333" x="96.279688" y="273.81625" transform="rotate(-0 96.279688 273.81625)">DQN aware</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#ma49f174099" x="103.279688" y="325.34375" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: end; fill: #333333" x="96.279688" y="330.68875" transform="rotate(-0 96.279688 330.68875)">Aware, features off</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 103.279688 353.78 
+L 103.279688 12.545 
+" style="fill: none; stroke: #4a5560; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 541.225037 353.78 
+L 541.225037 12.545 
+" style="fill: none; stroke: #4a5560; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 103.279688 353.78 
+L 541.225037 353.78 
+" style="fill: none; stroke: #4a5560; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 103.279688 12.545 
+L 541.225037 12.545 
+" style="fill: none; stroke: #4a5560; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="147.074223" y="44.47325" transform="rotate(-0 147.074223 44.47325)">0.29</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="234.663293" y="44.47325" transform="rotate(-0 234.663293 44.47325)">0.05</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="322.252363" y="44.47325" transform="rotate(-0 322.252363 44.47325)">0.15</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="409.841432" y="44.47325" transform="rotate(-0 409.841432 44.47325)">0.03</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="497.430502" y="44.47325" transform="rotate(-0 497.430502 44.47325)">0.02</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #ffffff" x="147.074223" y="101.34575" transform="rotate(-0 147.074223 101.34575)">0.88</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="234.663293" y="101.34575" transform="rotate(-0 234.663293 101.34575)">0.25</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #ffffff" x="322.252363" y="101.34575" transform="rotate(-0 322.252363 101.34575)">0.91</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="409.841432" y="101.34575" transform="rotate(-0 409.841432 101.34575)">0.52</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="497.430502" y="101.34575" transform="rotate(-0 497.430502 101.34575)">0.41</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #ffffff" x="147.074223" y="158.21825" transform="rotate(-0 147.074223 158.21825)">0.62</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="234.663293" y="158.21825" transform="rotate(-0 234.663293 158.21825)">0.14</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="322.252363" y="158.21825" transform="rotate(-0 322.252363 158.21825)">0.52</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="409.841432" y="158.21825" transform="rotate(-0 409.841432 158.21825)">0.23</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="497.430502" y="158.21825" transform="rotate(-0 497.430502 158.21825)">0.17</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #ffffff" x="147.074223" y="215.09075" transform="rotate(-0 147.074223 215.09075)">0.65</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="234.663293" y="215.09075" transform="rotate(-0 234.663293 215.09075)">0.14</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #ffffff" x="322.252363" y="215.09075" transform="rotate(-0 322.252363 215.09075)">0.62</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="409.841432" y="215.09075" transform="rotate(-0 409.841432 215.09075)">0.27</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="497.430502" y="215.09075" transform="rotate(-0 497.430502 215.09075)">0.17</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #ffffff" x="147.074223" y="271.96325" transform="rotate(-0 147.074223 271.96325)">0.63</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="234.663293" y="271.96325" transform="rotate(-0 234.663293 271.96325)">0.11</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #ffffff" x="322.252363" y="271.96325" transform="rotate(-0 322.252363 271.96325)">0.59</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="409.841432" y="271.96325" transform="rotate(-0 409.841432 271.96325)">0.26</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="497.430502" y="271.96325" transform="rotate(-0 497.430502 271.96325)">0.17</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="147.074223" y="328.83575" transform="rotate(-0 147.074223 328.83575)">0.46</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="234.663293" y="328.83575" transform="rotate(-0 234.663293 328.83575)">0.07</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="322.252363" y="328.83575" transform="rotate(-0 322.252363 328.83575)">0.43</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="409.841432" y="328.83575" transform="rotate(-0 409.841432 328.83575)">0.16</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 9px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #202020" x="497.430502" y="328.83575" transform="rotate(-0 497.430502 328.83575)">0.10</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 551.777937 353.78 
+L 568.839687 353.78 
+L 568.839687 12.545 
+L 551.777937 12.545 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABgAAAHaCAYAAAAaIInzAAACf0lEQVR4nO2d0W3DMBBDlcL779dhGncDvy8aIPHeADlQ5J0kt3E+9/17nyDXfaKff36in37Ouc75RgvkFdx3vwftCuwDor8PJkxuV3DXx3TAAzccoL8PFpaoPqYLG077uF7woF1B/GRnTAkVIBON1t4HaQ+MKWJMEVOEvJGibIG8gmwXnHOFV0iTmQkPPtECeoBcX/sAC7hEgOMaie/JeoBM9EF2yxxYInc0QgWIw44L2GiEMUUmPGi/xno25QLZzx9YImOKDGyZCwrax/VfetgNmBwuYEyReEwddkhcwcAS/dU3Wr8HAwrCBewDxGGHDChYOFXYaM+8kKJwgX4PjCnisEMGPFhQ0N7J6XE9YXK2gDFFBi6B/SmK/4dU/xIZU8Jhh5gipF+BMUX6TXbYIQsehAv0e7AQ03CBfpP7LyB6gOS/AD2wRP0xDRew0ZCFFA14EC7Q/5/jKiD6X9amB8gVfj/SgAcD+8FATFUAvDEqHNfP9Ctw2CEqQBYUDJyL0u837Te5XoHjmnBUIAse5J94efh9RgXI9a0fFeF3Ob+hoP4ae9Inu8/AEmULGFNkQUH9ph/+tZoXFHziv+jTH9N+BTYaoAdIvA88FyH9JttoyIIH9ePacxEx0WjZAo4KZCJF7Qo+6cf7/Us0oKD/bOqoAPpTNGCy11jCUYEsnE37PYhfAvsbbWDY9SvIFjBFSPx5UX+KBkweaLT+mJoiwBQh+b9l9ps8sKN5hQJUgMRTNLBEd/g7Gi8oCLvc/300U4Rcp15Bug8GTB5QMDDs+hU4rp/p74OFJapXcBx2gAqQBQXhJ1ILS6QCoH9P1gMkrmBiT/b4/owKEIcdElfwDy/+5T1AhwYnAAAAAElFTkSuQmCC" id="image53888135e8" transform="scale(1 -1) translate(0 -341.28)" x="551.52" y="-12.24" width="17.28" height="341.28"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_12">
+      <defs>
+       <path id="m2644f5570e" d="M 0 0 
+L 3.5 0 
+" style="stroke: #333333; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2644f5570e" x="568.839687" y="353.78" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: start; fill: #333333" x="575.839687" y="359.125" transform="rotate(-0 575.839687 359.125)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m2644f5570e" x="568.839687" y="285.533" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: start; fill: #333333" x="575.839687" y="290.878" transform="rotate(-0 575.839687 290.878)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m2644f5570e" x="568.839687" y="217.286" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: start; fill: #333333" x="575.839687" y="222.631" transform="rotate(-0 575.839687 222.631)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m2644f5570e" x="568.839687" y="149.039" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: start; fill: #333333" x="575.839687" y="154.384" transform="rotate(-0 575.839687 154.384)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m2644f5570e" x="568.839687" y="80.792" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: start; fill: #333333" x="575.839687" y="86.137" transform="rotate(-0 575.839687 86.137)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m2644f5570e" x="568.839687" y="12.545" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_47">
+      <text style="font-size: 10px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: start; fill: #333333" x="575.839687" y="17.89" transform="rotate(-0 575.839687 17.89)">1.0</text>
+     </g>
+    </g>
+    <g id="text_48">
+     <text style="font-size: 11px; font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Amiri', 'Scheherazade', 'Abyssinica SIL', 'Padauk', 'Lohit Devanagari', 'Lohit Tamil', 'Lohit Gujarati', 'Loma', 'Garuda', 'DejaVu Sans', 'Arial', 'Helvetica', sans-serif, 'Noto Sans Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; text-anchor: middle; fill: #222222" x="605.719" y="183.1625" transform="rotate(-90 605.719 183.1625)">Win rate</text>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_8">
+    <path d="M 551.777937 353.78 
+L 560.308812 353.78 
+L 568.839687 353.78 
+L 568.839687 12.545 
+L 560.308812 12.545 
+L 551.777937 12.545 
+L 551.777937 353.78 
+z
+" style="fill: none; stroke: #4a5560; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6f8904d027">
+   <rect x="103.279688" y="12.545" width="437.94535" height="341.235"/>
+  </clipPath>
+ </defs>
+</svg>

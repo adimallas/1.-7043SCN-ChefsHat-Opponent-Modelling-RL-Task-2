@@ -1,0 +1,10 @@
+<slide id="cover">
+  <background color="background"/>
+  <shape type="rect" x="1216" y="60" width="4" height="4" fill="accent-orange"/>
+  <text x="60" y="60" width="1100" height="28" font="body" color="accent-teal">7043SCN · TASK 2 · OPPONENT MODELLING</text>
+  <text x="60" y="144" width="1110" height="210" font="display" color="primary" line-height="1.12"><p>Opponent-aware deep</p><p>reinforcement learning</p><p>in Chef’s Hat</p></text>
+  <text x="60" y="402" width="1050" height="70" font="body" color="text-main">Do public opponent behaviours improve adaptation across competitive strategies?</text>
+  <text x="60" y="516" width="650" height="86" font="body" color="text-main"><p>Sampath Adimalla · Student ID 17522555</p><p>Coventry University · ID modulo 7 = 1</p></text>
+  <text x="60" y="626" width="1070" height="28" font="body" color="text-muted">5,400 training matches · 8,960 held-out matches · bounded CPU study</text>
+  <text x="1170" y="644" width="50" height="20" font="caption" color="text-muted" align="right">1 / 7</text>
+</slide>

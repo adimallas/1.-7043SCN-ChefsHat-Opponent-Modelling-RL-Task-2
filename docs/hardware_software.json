@@ -1,0 +1,14 @@
+{
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-6.18.38+-aarch64-with-glibc2.39",
+  "logical_cpus": 6,
+  "memory_bytes": 25599549440,
+  "gpu": null,
+  "torch": "2.14.1+cpu",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "matplotlib": "3.11.2",
+  "pytest": "9.1.1",
+  "pyyaml": "6.0.3",
+  "upstream_commit": "bf882e55eccd537d189f8b99fef1ad104339c92b"
+}

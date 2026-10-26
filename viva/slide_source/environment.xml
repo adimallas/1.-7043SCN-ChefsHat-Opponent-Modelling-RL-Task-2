@@ -1,0 +1,12 @@
+<slide id="environment">
+  <background color="background"/>
+  <shape type="rect" x="1216" y="60" width="4" height="4" fill="accent-orange"/>
+  <text x="60" y="60" width="1120" height="86" font="heading" color="primary">The environment and information boundary</text>
+  <text x="60" y="192" width="500" height="54" font="heading" size="30" color="primary">Four-player card competition</text>
+  <text x="60" y="266" width="520" height="250" font="body" color="text-main" line-height="1.4"><p>200 action IDs, with state-dependent legal choices.</p><p>Delayed finishing points: 3, 2, 1, 0.</p><p>Own hand + public board, counts and action history.</p><p>No opponent private-card identities.</p></text>
+  <shape type="line" x="624" y="188" width="0" height="360" stroke="primary" stroke-width="1"/>
+  <text x="674" y="192" width="490" height="54" font="heading" size="30" color="primary">Reproducible, disclosed fixes</text>
+  <text x="674" y="266" width="490" height="292" font="body" color="text-main" line-height="1.4"><p>Official pinned Game implementation.</p><p>One-line joker-only discard fix; action space unchanged.</p><p>Shared policy guard: no empty-board pass when a discard is legal.</p><p>Failed runs preserved, not scored.</p></text>
+  <text x="60" y="610" width="1100" height="38" font="caption" color="text-muted">Base revision bf882e55… · exact patch and source hashes saved · results conditional on this backend and policy constraint</text>
+  <text x="1170" y="644" width="50" height="20" font="caption" color="text-muted" align="right">2 / 7</text>
+</slide>

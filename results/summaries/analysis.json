@@ -1,0 +1,127 @@
+{
+  "bootstrap_replicates": 3000,
+  "expected_counts": {
+    "baseline_rows_per_opponent": 128,
+    "evaluation_rows_per_checkpoint": 640,
+    "evaluation_rows_per_opponent_per_checkpoint": 128,
+    "total_evaluation_rows": 8960,
+    "total_loss_rows": 27980,
+    "total_training_rows": 5400,
+    "trained_agent_rows_per_opponent_across_three_checkpoints": 384
+  },
+  "generated_utc": "2026-10-25T22:55:20.561390+00:00",
+  "observed_counts_by_agent": [
+    {
+      "agent": "random",
+      "deal_seed_blocks": 32,
+      "evaluation_files": 1,
+      "rows": 640,
+      "rows_per_opponent": 128,
+      "training_seeds": [
+        -1
+      ]
+    },
+    {
+      "agent": "heuristic",
+      "deal_seed_blocks": 32,
+      "evaluation_files": 1,
+      "rows": 640,
+      "rows_per_opponent": 128,
+      "training_seeds": [
+        -1
+      ]
+    },
+    {
+      "agent": "dqn_random",
+      "deal_seed_blocks": 32,
+      "evaluation_files": 3,
+      "rows": 1920,
+      "rows_per_opponent": 384,
+      "training_seeds": [
+        17,
+        29,
+        43
+      ]
+    },
+    {
+      "agent": "dqn_mixed",
+      "deal_seed_blocks": 32,
+      "evaluation_files": 3,
+      "rows": 1920,
+      "rows_per_opponent": 384,
+      "training_seeds": [
+        17,
+        29,
+        43
+      ]
+    },
+    {
+      "agent": "dqn_aware",
+      "deal_seed_blocks": 32,
+      "evaluation_files": 3,
+      "rows": 1920,
+      "rows_per_opponent": 384,
+      "training_seeds": [
+        17,
+        29,
+        43
+      ]
+    },
+    {
+      "agent": "dqn_aware_features_off",
+      "deal_seed_blocks": 32,
+      "evaluation_files": 3,
+      "rows": 1920,
+      "rows_per_opponent": 384,
+      "training_seeds": [
+        17,
+        29,
+        43
+      ]
+    }
+  ],
+  "protocol": {
+    "agents": [
+      "random",
+      "heuristic",
+      "dqn_random",
+      "dqn_mixed",
+      "dqn_aware",
+      "dqn_aware_features_off"
+    ],
+    "evaluation_deal_seeds": 32,
+    "evaluation_seed_start": 9000000,
+    "opponents": [
+      "random",
+      "aggressive",
+      "conservative",
+      "mixed",
+      "switching"
+    ],
+    "preset": "standard",
+    "seats": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "training_episodes_per_run": 600,
+    "training_seeds": [
+      17,
+      29,
+      43
+    ]
+  },
+  "summary_rows": {
+    "by_training_seed": 28,
+    "paired_differences": 21,
+    "summary_by_opponent": 30,
+    "summary_overall": 12
+  },
+  "uncertainty": {
+    "all_opponent_aggregation": "Both pooled and macro_equal_opponents rows are saved. Macro point estimates weight all five opponent types equally, while its bootstrap draws use the same shared environment-seed indices across those types.",
+    "paired": "Aware-versus-comparator win differences use shared candidate/reference environment-seed block resampling. Pooled and macro all-opponent rows jointly resample all five opponent conditions at each selected seed; no p-values or unsupported significance claims are reported.",
+    "primary": "95% percentile bootstrap, 3,000 deterministic replicates by default, resampling environment_seed blocks. Each per-opponent block retains all 4 seats and all 3 training checkpoints for that agent. For pooled and macro all-opponent rows, each draw retains all five opponent conditions at the selected environment seed together.",
+    "wilson": "Descriptive 95% Wilson interval for the saved match-level win proportion."
+  }
+}

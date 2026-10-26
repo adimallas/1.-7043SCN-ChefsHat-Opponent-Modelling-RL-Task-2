@@ -1,0 +1,14 @@
+<design>
+  <size width="1280" height="720"></size>
+  <color name="primary" value="#0A2540"/>
+  <color name="background" value="#F8F9FA"/>
+  <color name="surface" value="#FFFFFF"/>
+  <color name="text-main" value="#1D2D3E"/>
+  <color name="text-muted" value="#52667A"/>
+  <color name="accent-orange" value="#E85D04"/>
+  <color name="accent-teal" value="#028090"/>
+  <font name="display" family="Inter" size="52"/>
+  <font name="heading" family="Inter" size="36"/>
+  <font name="body" family="Inter" size="24"/>
+  <font name="caption" family="Inter" size="16"/>
+</design>
